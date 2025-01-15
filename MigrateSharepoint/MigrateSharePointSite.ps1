@@ -1,5 +1,5 @@
 # load module
-import-module ".SharepointMigration\SharepointMigration.psm1"
+import-module "SharepointMigration.psm1"
 
 #Read more: https://www.sharepointdiary.com/2021/03/copy-document-library-between-tenants-in-sharepoint-online-using-powershell.html#ixzz8wXUlgdBN
 #region parameters
