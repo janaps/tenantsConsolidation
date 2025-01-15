@@ -1,7 +1,7 @@
 
 <#
     .SYNOPSIS
-        Collect hardwarehashes in an existing entra tenant
+    Collect hardwarehashes in an existing entra tenant, pre migration
 
     .DESCRIPTION
     You have to deploy this script through intune in order to collect the hardware hashes thru ReadHWHash.ps1
