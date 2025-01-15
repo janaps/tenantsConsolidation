@@ -34,4 +34,8 @@ I have provide two ways to import the hashes into your tenant: through a csv you
 
 #### A. CSV-import
 
-Use the script
+Use the script [https://github.com/janaps/tenantsConsolidation/blob/main/getHWHashes/ReadHWHashesFromGraph.ps1](https://github.com/janaps/tenantsConsolidation/blob/main/getHWHashes/ReadHWHashesFromGraph.ps1)
+
+B. Powershell add to graph
+
+Use the script: [https://github.com/janaps/tenantsConsolidation/blob/main/getHWHashes/AddHashesToIntune.ps1](https://github.com/janaps/tenantsConsolidation/blob/main/getHWHashes/AddHashesToIntune.ps1)
